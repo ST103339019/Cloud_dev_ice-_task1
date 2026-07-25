@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Cloud_dev_ice-_task1\\UniversityCourses\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D2BD4655-A463-1A06-0AE9-81D2FE6C3B2E}|UniversityCourses.csproj|c:\\users\\user\\documents\\github\\cloud_dev_ice-_task1\\universitycourses\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2BD4655-A463-1A06-0AE9-81D2FE6C3B2E}|UniversityCourses.csproj|solutionrelative:views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BD4655-A463-1A06-0AE9-81D2FE6C3B2E}|UniversityCourses.csproj|c:\\users\\user\\documents\\github\\cloud_dev_ice-_task1\\universitycourses\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2BD4655-A463-1A06-0AE9-81D2FE6C3B2E}|UniversityCourses.csproj|solutionrelative:views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BD4655-A463-1A06-0AE9-81D2FE6C3B2E}|UniversityCourses.csproj|c:\\users\\user\\documents\\github\\cloud_dev_ice-_task1\\universitycourses\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2BD4655-A463-1A06-0AE9-81D2FE6C3B2E}|UniversityCourses.csproj|solutionrelative:views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BD4655-A463-1A06-0AE9-81D2FE6C3B2E}|UniversityCourses.csproj|c:\\users\\user\\documents\\github\\cloud_dev_ice-_task1\\universitycourses\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2BD4655-A463-1A06-0AE9-81D2FE6C3B2E}|UniversityCourses.csproj|solutionrelative:views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BD4655-A463-1A06-0AE9-81D2FE6C3B2E}|UniversityCourses.csproj|c:\\users\\user\\documents\\github\\cloud_dev_ice-_task1\\universitycourses\\views\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2BD4655-A463-1A06-0AE9-81D2FE6C3B2E}|UniversityCourses.csproj|solutionrelative:views\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BD4655-A463-1A06-0AE9-81D2FE6C3B2E}|UniversityCourses.csproj|c:\\users\\user\\documents\\github\\cloud_dev_ice-_task1\\universitycourses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BD4655-A463-1A06-0AE9-81D2FE6C3B2E}|UniversityCourses.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BD4655-A463-1A06-0AE9-81D2FE6C3B2E}|UniversityCourses.csproj|c:\\users\\user\\documents\\github\\cloud_dev_ice-_task1\\universitycourses\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BD4655-A463-1A06-0AE9-81D2FE6C3B2E}|UniversityCourses.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BD4655-A463-1A06-0AE9-81D2FE6C3B2E}|UniversityCourses.csproj|c:\\users\\user\\documents\\github\\cloud_dev_ice-_task1\\universitycourses\\services\\azuretableservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BD4655-A463-1A06-0AE9-81D2FE6C3B2E}|UniversityCourses.csproj|solutionrelative:services\\azuretableservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2BD4655-A463-1A06-0AE9-81D2FE6C3B2E}|UniversityCourses.csproj|c:\\users\\user\\documents\\github\\cloud_dev_ice-_task1\\universitycourses\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2BD4655-A463-1A06-0AE9-81D2FE6C3B2E}|UniversityCourses.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +54,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Cloud_dev_ice-_task1\\UniversityCourses\\Views\\Courses\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Courses\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Cloud_dev_ice-_task1\\UniversityCourses\\Views\\Courses\\Create.cshtml",
+              "RelativeToolTip": "Views\\Courses\\Create.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-25T13:19:59.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Cloud_dev_ice-_task1\\UniversityCourses\\Views\\Courses\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Courses\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Cloud_dev_ice-_task1\\UniversityCourses\\Views\\Courses\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Courses\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-25T13:19:01.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Cloud_dev_ice-_task1\\UniversityCourses\\Views\\Courses\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Courses\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Cloud_dev_ice-_task1\\UniversityCourses\\Views\\Courses\\Details.cshtml",
+              "RelativeToolTip": "Views\\Courses\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-25T13:18:41.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Cloud_dev_ice-_task1\\UniversityCourses\\Views\\Courses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Courses\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Cloud_dev_ice-_task1\\UniversityCourses\\Views\\Courses\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Courses\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-25T13:18:01.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Cloud_dev_ice-_task1\\UniversityCourses\\Views\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Courses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Cloud_dev_ice-_task1\\UniversityCourses\\Views\\Courses\\Index.cshtml",
+              "RelativeToolTip": "Views\\Courses\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-25T13:14:06.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Cloud_dev_ice-_task1\\UniversityCourses\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Cloud_dev_ice-_task1\\UniversityCourses\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T13:02:36.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Cloud_dev_ice-_task1\\UniversityCourses\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Cloud_dev_ice-_task1\\UniversityCourses\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T12:55:37.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AzureTableServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Cloud_dev_ice-_task1\\UniversityCourses\\Services\\AzureTableServices.cs",
+              "RelativeDocumentMoniker": "Services\\AzureTableServices.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Cloud_dev_ice-_task1\\UniversityCourses\\Services\\AzureTableServices.cs",
+              "RelativeToolTip": "Services\\AzureTableServices.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAEAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T17:56:14.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Cloud_dev_ice-_task1\\UniversityCourses\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",
@@ -34,12 +174,11 @@
               "RelativeToolTip": "Models\\Student.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAACUAAAC0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T13:25:55.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-22T13:25:55.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Cloud_dev_ice-_task1\\UniversityCourses\\Models\\Course.cs",
               "RelativeDocumentMoniker": "Models\\Course.cs",
@@ -47,12 +186,11 @@
               "RelativeToolTip": "Models\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAIwB4AAACVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T13:25:26.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-22T13:25:26.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Cloud_dev_ice-_task1\\UniversityCourses\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -60,8 +198,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-22T13:20:49.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-22T13:20:49.581Z"
             }
           ]
         }

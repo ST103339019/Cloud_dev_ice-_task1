@@ -1,0 +1,35 @@
+﻿@model UniversityCourses.Models.Course
+
+@{
+    ViewData["Title"] = "Course Details";
+}
+
+<h1>Course Details</h1>
+
+<div>
+    <p>
+        <strong>Course Code:</strong>
+        @Model.CourseCode
+    </p>
+
+    <p>
+        <strong>Course Name:</strong>
+        @Model.CourseName
+    </p>
+
+    <p>
+        <strong>Lecturer:</strong>
+        @Model.Lecturer
+    </p>
+</div>
+
+<a asp-action="Edit"
+   asp-route-id="@Model.RowKey"
+   class="btn btn-primary">
+    Edit
+</a>
+
+<a asp-action="Index"
+   class="btn btn-secondary">
+    Back to Courses
+</a>

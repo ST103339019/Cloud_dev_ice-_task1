@@ -1,0 +1,47 @@
+﻿@model UniversityCourses.Models.Course
+
+@{
+    ViewData["Title"] = "Edit Course";
+}
+
+<h1>Edit Course</h1>
+
+<form asp-action="Edit" method="post">
+
+    <input type="hidden" asp-for="RowKey" />
+    <input type="hidden" asp-for="PartitionKey" />
+    <input type="hidden" asp-for="ETag" />
+
+    <div class="mb-3">
+        <label asp-for="CourseCode" class="form-label">
+            Course Code
+        </label>
+
+        <input asp-for="CourseCode" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="CourseName" class="form-label">
+            Course Name
+        </label>
+
+        <input asp-for="CourseName" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Lecturer" class="form-label">
+            Lecturer
+        </label>
+
+        <input asp-for="Lecturer" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">
+        Save Changes
+    </button>
+
+    <a asp-action="Index" class="btn btn-secondary">
+        Cancel
+    </a>
+
+</form>
